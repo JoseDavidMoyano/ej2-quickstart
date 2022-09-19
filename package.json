@@ -9,6 +9,7 @@
         "url": "https://github.com/syncfusion/ej2-quickstart.git"
     },
     "dependencies": {
+        "@angular/platform-browser": "^14.2.0",
         "@syncfusion/ej2": "*"
     },
     "devDependencies": {

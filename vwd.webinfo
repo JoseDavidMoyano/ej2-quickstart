@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<!-- 
+  Visual Studio global web project settings.
+-->
+<VisualWebDeveloper>
+
+  <Globals>
+    <UserProperties node_3modules_4browser-sync_4dist_4cli_4command_1init_1js_1map__JsonSchema=""/>
+  </Globals>
+</VisualWebDeveloper>
